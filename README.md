@@ -1,4 +1,4 @@
-#### 🇪🇸 [Versión en Español disponible más abajo / Spanish version available below](#version-en-español)
+# 🇪🇸 Versión en Español disponible más abajo / Spanish version available below
 ---
 🇬🇧
 
@@ -49,7 +49,6 @@ I am a proactive and efficient professional, passionate about applying **Artific
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdhp21@outlook.com)
 
 ---
-## Versión en Español 
 🇪🇸
 
 # ¡Hola! Soy Pablo Martínez Seco de Herrera 👋
