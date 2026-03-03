@@ -49,7 +49,8 @@ I am a proactive and efficient professional, passionate about applying **Artific
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdhp21@outlook.com)
 
 ---
-🇪🇸 # Version en Español
+# Version en Español 
+🇪🇸
 
 # ¡Hola! Soy Pablo Martínez Seco de Herrera 👋
 
