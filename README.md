@@ -1,6 +1,6 @@
 #### 🇪🇸 [Versión en Español disponible más abajo / Spanish version available below]
 ---
-🇬🇧 ![English](https://img.shields.io/badge/English-🇬🇧-white) ![English](https://img.shields.io/badge/English-🇬🇧-white)
+🇬🇧
 # Hi there! I'm Pablo Martínez Seco de Herrera 👋
 
 ### 🚀 Communications Engineer | AI & Computer Vision Specialist
@@ -48,7 +48,7 @@ I am a proactive and efficient professional, passionate about applying **Artific
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdhp21@outlook.com)
 
 ---
-🇪🇸 ![Spanish](https://img.shields.io/badge/Español-🇪🇸-white) ![Spanish](https://img.shields.io/badge/Español-🇪🇸-white)
+🇪🇸
 # ¡Hola! Soy Pablo Martínez Seco de Herrera 👋
 
 ### 🚀 Ingeniero de Telecomunicaciones | Especialista en IA & Big Data
