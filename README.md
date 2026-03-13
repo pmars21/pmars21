@@ -38,12 +38,6 @@ I am a proactive and efficient professional, passionate about applying **Artific
 
 ---
 
-### 📊 GitHub Stats
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmars21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmars21&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-martínez-seco-de-herrera-5b6bb9308)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdhp21@outlook.com)
