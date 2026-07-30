@@ -12,7 +12,7 @@ I am a proactive and efficient professional, passionate about applying **Artific
 ### 🔬 Featured Projects
 
 * **[Hyperglio (CEIMM)](https://github.com/pmars21/cell_segmentation_torch.git)):** A collaborative project by the Community of Madrid, between CEIMM-UPM and the 12 de Octubre University Hospital, using Machine Learning models for brain tumor diagnosis through semantic segmentation.
-* **[Hypertension Managment AI Driven Tool] (https://github.com/pmars21/hypertension_management_AI_driven_tool.git):** Master's thesis proyect. A machine learning project that preprocesses multi-domain health data, selects predictive variables with genetic algorithms, and uses supervised and unsupervised learning methods to estimate individual hypertension risk probabilities.
+* **[Hypertension Managment AI Driven Tool](https://github.com/pmars21/hypertension_management_AI_driven_tool.git):** Master's thesis proyect. A machine learning project that preprocesses multi-domain health data, selects predictive variables with genetic algorithms, and uses supervised and unsupervised learning methods to estimate individual hypertension risk probabilities.
 * **[Estudio Estadistico World Padel Tour](https://github.com/pmars21/Estudio_estadistico_WPT):** Data analysis applied to sports (World Padel Tour), combining data science with sports performance metrics.
 * **[CCIPS GUI](https://github.com/pmars21/CCIPS-GUI):** Telefonica I+D project. Graphical User Interface development for communication and security systems.
 * **[lakehouse local](https://github.com/pmars21/lakehouse_local):** Implementation of modern data architectures in local environments.
