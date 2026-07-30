@@ -29,11 +29,13 @@ I am a proactive and efficient professional, passionate about applying **Artific
 
 ### 📈 Career at a Glance
 
-- **Experience:** - **CEIMM (UPM)** Collaboration on Hyperglio project by the Community of Madrid.
+- **Experience:**
+  - **CEIMM (UPM)** Collaboration on Hyperglio project by the Community of Madrid.
   - ![Telefónica](https://img.shields.io/badge/Telefónica-0066FF?style=flat-square&logo=telefonica&logoColor=white) **Innovation & Security for IP and Transport Networks** (Talentum Scholarship).
   - **Network Technician** at NTT Data (FITUR Madrid).
   - **Software Development & Commercialization** at Pickgram (Sports officiating software).
-- **Education:** - Master's degree in Artificial Intelligence & Big Data - **CEU San Pablo Univesity**.
+- **Education:**
+  - Master's degree in Artificial Intelligence & Big Data - **CEU San Pablo Univesity**.
   - B.Sc. in Communications Electronics Engineering - **UPM**, including an international exchange at **Aalto University, Finland**.
 
 ---
@@ -55,11 +57,13 @@ Me defino como un profesional proactivo y eficiente, interesado especialmente en
 
 ### 📈 Mi Trayectoria en breve
 
-- **Experiencia:** - **CEIMM (UPM)** Colaboración en el proyecto Hyperglio de la Comunidad de Madrid.
-  - Innovación y Seguridad en Redes IP en **Telefónica Innovación Digital**.
+- **Experiencia:**
+  - **CEIMM (UPM)** Colaboración en el proyecto Hyperglio de la Comunidad de Madrid.
+  - ![Telefónica](https://img.shields.io/badge/Telefónica-0066FF?style=flat-square&logo=telefonica&logoColor=white) Innovación y Seguridad en Redes IP en **Telefónica Innovación Digital**.
   - Técnico de red en **NTT Data** (FITUR).
   - Desarrollo  y comercialización de software de arbitraje deportivo en **Pickgram**.
-- **Educación:** - Máster en IA & Big Data (Univ. CEU San Pablo).
+- **Educación:**
+  - Máster en IA & Big Data (Univ. CEU San Pablo).
   - Grado en Ingeniería Electrónica de Comunicaciones (UPM) con movilidad internacional en **Aalto University, Finlandia**.
 
 
